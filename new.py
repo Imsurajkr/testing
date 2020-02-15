@@ -9,3 +9,5 @@ sp(date)
 
 sp.os("date")  # It will run the command
 # for more reference you can visit docs page 
+
+# These are the updates from lenovo 
